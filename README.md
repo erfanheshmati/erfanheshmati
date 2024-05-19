@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a MERN STACK Web Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
+I'm a Full-Stack Web Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
 
 
 ♥️ I enjoy making people laugh and coding. <br/>
