@@ -4,7 +4,6 @@ I'm a Full-Stack Web Developer. My experience has provided me with the experienc
 
 
 ♥️ I enjoy making people laugh and coding. <br/>
-📫 How to reach me: [email](erfan.heshmati@hotmail.com) or [instagram](https://www.instagram.com/erfan.heshmati) <br/>
 💬 Ask me about anything <br/>
 
 
